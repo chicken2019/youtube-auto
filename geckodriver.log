@@ -1,0 +1,247 @@
+1591016219577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofile0OcSGo"
+1591016220409	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591016220819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591016220819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591016220819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591016220820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591016222979	Marionette	INFO	Listening on port 62001
+1591016223185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591016240205	Marionette	INFO	Stopped listening on port 62001
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591021765394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--profile" "C:\\Users\\noname\\Documents\\file\\bk" "-foreground" "-no-remote"
+1591021819714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\noname\\Documents\\file\\bk" "-foreground" "-no-remote"
+1591021849175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\noname\\Documents\\file\\bk" "-foreground" "-no-remote"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591022391850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileYOjjIR"
+1591022392112	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591022392131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591022392131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591022392131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591022392131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591022394014	Marionette	INFO	Listening on port 62831
+1591022394457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1591022558770	Marionette	INFO	Stopped listening on port 62831
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591022563718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileVHHNRE"
+1591022563983	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591022564002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591022564002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591022564002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591022564002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591022565848	Marionette	INFO	Listening on port 62909
+1591022566327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1591022590756	Marionette	INFO	Stopped listening on port 62909
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591022595452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileg09Y1Z"
+1591022595715	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591022595738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591022595738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591022595738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591022595738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591022597633	Marionette	INFO	Listening on port 62983
+1591022598063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1591022665505	Marionette	INFO	Stopped listening on port 62983
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591022678097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileDcgFCW"
+1591022678368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591022678387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591022678387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591022678388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591022678388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591022680373	Marionette	INFO	Listening on port 63127
+1591022680709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1591022691792	Marionette	INFO	Stopped listening on port 63127
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591022719030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileQ2VyNG"
+1591022720002	Marionette	INFO	Listening on port 63188
+1591022720035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[Child 11220, MediaDecoderStateMachine #1] WARNING: Decoder=1ff6f767000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 11220, MediaDecoderStateMachine #1] WARNING: Decoder=1ff6f767000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585933993/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+1591022757495	Marionette	INFO	Stopped listening on port 63188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591022766893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileSEtqJk"
+1591022767865	Marionette	INFO	Listening on port 63269
+1591022767898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1591023480040	Marionette	INFO	Stopped listening on port 63269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591023728428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofile2DWpDP"
+1591023729437	Marionette	INFO	Listening on port 63778
+1591023729933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591023828403	Marionette	INFO	Stopped listening on port 63778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591023842789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofileCFKQgb"
+1591023843754	Marionette	INFO	Listening on port 63857
+1591023843797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js, line 91: Script terminated by timeout at:
+k.dispatchEvent@https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:91:1
+Bta@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7384:72
+Cta@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7385:102
+GJ</a.prototype._propertiesChanged@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7433:432
+cJ</b.prototype._flushProperties@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7307:200
+GJ</a.prototype._invalidateProperties@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7425:69
+GJ</a.prototype._setProperty@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7424:79
+@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:7449:161
+_focusBlurHandler@https://www.youtube.com/yts/jsbin/desktop_polymer_inlined_html_polymer_flags-vflnmbB2s/desktop_polymer_inlined_html_polymer_flags.js:8136:36
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+JavaScript warning: https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js, line 8822: Script terminated by timeout at:
+e/h.buildState@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:8822:28
+_g.ik@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:11692:39
+_g.jk@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:1150:83
+BEb@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:12812:36
+DEb@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:12784:235
+get@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:20932:220
+Zna/<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:866:134
+Eca@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:176:119
+Fca@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:169:27
+vib</a.prototype._propertiesChanged@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7249:209
+Xhb</b.prototype._flushProperties@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7154:200
+vib</a.prototype._invalidateProperties@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7242:69
+Xhb</b.prototype._definePropertyAccessor/<.set<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7144:71
+$na@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:867:17
+_g.Oi/</</this.storeSubscription<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:868:282
+v@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:8532:379
+sEa/</</<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:2270:83
+Exa/</</<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:1724:315
+MBa/</</<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:2065:375
+svb/</</<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:11456:466
+Axa/</</<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:1723:429
+_g.d.dispatch@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:12200:45
+e/<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_shared_v2.vi.js:5231:154
+d3a@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:4008:58
+b3a.prototype.next_@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:4003:197
+f3a/this.next@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:4009:48
+_g.bh/<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:5219:20
+_g.bh@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:5216:32
+clc@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_shared_v2.vi.js:5231:33
+h/<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_shared_v2.vi.js:5237:385
+d3a@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:4008:58
+b3a.prototype.next_@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:4003:197
+f3a/this.next@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:4009:48
+_g.bh/<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:5219:20
+_g.bh@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:5216:32
+flc/this.pollingCallback@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_shared_v2.vi.js:5237:277
+flc.prototype.start@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_shared_v2.vi.js:5239:71
+_g.d.attached@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_shared_v2.vi.js:5289:138
+paa/a[b]@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:39:135
+sea/g.prototype.attached@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:258:119
+Uib</a.prototype.connectedCallback@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7421:192
+insertBefore@https://s.ytimg.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:57:42
+_g.d.__createAndInsertInstance@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7563:59
+_g.d.__ensureInstance@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7547:298
+a/h[m]@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:802:62
+_g.d.__render@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7549:47
+_g.d.__debounceRender/this.__renderDebouncer<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7541:148
+_g.d.setConfig/this._timer<@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:7094:172
+Zba@https://studio.youtube.com/s/e182432e/creator_studio_mod_binary_core_v2.vi.js:122:77
+
+1591024669118	Marionette	INFO	Stopped listening on port 63857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1591026679592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noname\\AppData\\Local\\Temp\\rust_mozprofile1j60i4"
+1591026680610	Marionette	INFO	Listening on port 64254
+1591026681098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1591026693396	Marionette	INFO	Stopped listening on port 64254
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
